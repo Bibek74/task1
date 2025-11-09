@@ -32,6 +32,11 @@ to `/example` folder.
 const like = 'sample';
 ```
 
+
+
+## Video Link:
+https://youtu.be/Z8bP06zMlbM?si=E4ysvq5G5hoKXvtW
+
 ## Additional information
 
 TODO: Tell users more about the package: where to find more information, how to 
